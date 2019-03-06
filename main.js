@@ -3,6 +3,8 @@
 import Vue from 'vue'
 import App from './App'
 import router from './router'
+import './assets/css/index.styl'
+import './assets/css/animate.css'
 
 Vue.config.productionTip = false
 
